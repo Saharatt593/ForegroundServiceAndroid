@@ -6,6 +6,7 @@ interface Repository {
      * @local
      */
 
+    fun testApi()
 
     /**
      * @remote
